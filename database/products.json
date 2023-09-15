@@ -1,0 +1,80 @@
+[
+  {
+    "id": "P1",
+    "name": "Escultura em Madeira",
+    "price": 59.99,
+    "dimensions": "20cm X 10cm X 15cm",
+    "material": "Carvalho",
+    "origin": "Artesão local",
+    "care_tips": "Evitar exposição prolongada ao sol",
+    "tips_for_use": "Decoração de interiores",
+    "complementary_product_tips": "Suportes de exposição",
+    "additional_information": "Cada escultura é esculpida à mão, tornando-a uma peça única de arte em madeira",
+    "images": [
+      "images/product1.jpeg"
+    ]
+  },
+  {
+    "id": "P2",
+    "name": "Tapete em Crochê",
+    "price": 79.99,
+    "dimensions": "1m X 70cm",
+    "material": "Fio de algodão",
+    "origin": "Artesã local",
+    "care_tips": "Lavar à mão, evitar exposição direta ao sol",
+    "tips_for_use": "Decoração de sala ou quarto",
+    "complementary_product_tips": "Almofadas de crochê",
+    "additional_information": "Cada tapete é cuidadosamente crocheteado à mão, com um design exclusivo.",
+    "images": [
+      "images/product2.jpeg"
+    ]
+  },
+  {
+    "id": "P3",
+    "name": "Cerâmica Artesanal",
+    "price": 89.99,
+    "dimensions": "Varia de acordo com a peça",
+    "material": "Argila natural",
+    "origin": "Estúdio de cerâmica local",
+    "care_tips": "Manter longe de quedas",
+    "tips_for_use": "Utilitários de cozinha e decoração",
+    "complementary_product_tips": "Porta-incensos",
+    "additional_information": "Cada peça é moldada e esmaltada à mão, com detalhes únicos.",
+    "images": [
+      "images/product3-1.jpeg",
+      "images/product3-2.jpeg",
+      "images/product3-3.jpeg"
+    ]
+  },
+  {
+    "id": "P4",
+    "name": "Pintura em Seda",
+    "price": 49.99,
+    "dimensions": "50cm X 50cm",
+    "material": "Seda natural ",
+    "origin": "Artista local",
+    "care_tips": "Lavar à mão com cuidado",
+    "tips_for_use": "Decoração de paredes",
+    "complementary_product_tips": "Molduras de quadros",
+    "additional_information": "Cada pintura em seda é feita à mão, resultando em cores vibrantes e únicas.",
+    "images": [
+      "images/product4.jpeg"
+    ]
+  },
+  {
+    "id": "P5",
+    "name": "Bijuterias de Cerâmica",
+    "price": 39.99,
+    "dimensions": "Varia de acordo com o design",
+    "material": "Cerâmica esmaltada",
+    "origin": "Estúdio de cerâmica local",
+    "care_tips": "Evitar impactos ",
+    "tips_for_use": "Adicione um toque artístico aos seus trajes",
+    "complementary_product_tips": "Caixa de jóias ",
+    "additional_information": "Cada peça é cuidadosamente moldada e esmaltada à mão, tornando-a uma bijuteria única.",
+    "images": [
+      "images/product5-1.jpeg",
+      "images/product5-2.jpeg"
+    ]
+  }
+]
